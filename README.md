@@ -10,7 +10,7 @@ I'm a self-taught full-stack developer who builds things that actually ship.
 **Backend** — Node.js · Next.js API Routes · ExpressJs · Prisma · Mongoose  
 **Database** — PostgreSQL · MongoDB · Neon  
 **AI** — Gemini · Anthropic APIs  
-**Auth** — NextAuth.js · OAuth · JWT 
+**Auth** — NextAuth.js · OAuth · JWT
 **Deploy** — Vercel
 
 ---
