@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Sandesh
 
-<!--
-**sandesh-Codes/sandesh-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught full-stack developer who builds things that actually ship. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack I work with
+
+**Frontend** — Next.js · React · Tailwind CSS · shadcn/ui  
+**Backend** — Node.js · Next.js API Routes · ExpressJs · Prisma · Mongoose  
+**Database** — PostgreSQL · MongoDB · Neon  
+**AI** — Gemini · Anthropic APIs  
+**Auth** — NextAuth.js · OAuth · JWT 
+**Deploy** — Vercel
+
+---
+
+## Status & Contact Info
+
+- Open to remote dev roles — frontend, backend, or full-stack
+- [LinkedIn](www.linkedin.com/in/sandesh-kumar-63b75a393)
+- [Twitter/X](https://x.com/Sandesh574793)
+- or Email:- sandeshk7010@gmail.com
+
+---
+
+*I learn by building. Everything here is real.*
+
+*I learn by building. Everything here is real.*
