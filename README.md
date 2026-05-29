@@ -25,5 +25,3 @@ I'm a self-taught full-stack developer who builds things that actually ship.
 ---
 
 *I learn by building. Everything here is real.*
-
-*I learn by building. Everything here is real.*
